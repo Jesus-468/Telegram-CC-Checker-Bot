@@ -74,7 +74,7 @@ if(strpos($message, "/iban ") === 0){
 <ins>Time:</ins>  <code>$timetaken</code><code>s</code>
 <b>━━━━━━━━━━━━━
 Checked By <a href='tg://user?id=$userId'>$firstname</a></b>
-<b>Bot By: <a href='t.me/RedHoodPRO'>𝓡𝓮𝓭𝓗𝓸𝓸𝓭𝓟𝓡𝓞</a></b>",
+<b>Bot By: <a href='https://t.me/Mexicoccsscam'>ELGORDO</a></b>",
                 'parse_mode'=>'html',
                 'disable_web_page_preview'=>'true'
                 
@@ -88,7 +88,7 @@ Checked By <a href='tg://user?id=$userId'>$firstname</a></b>
 <b>━━━━━━━━━━</b>
 
 <b>Checked By <a href='tg://user?id=$userId'>$firstname</a></b>
-<b>Bot By: <a href='t.me/RedHoodPRO'>𝓡𝓮𝓭𝓗𝓸𝓸𝓭𝓟𝓡𝓞</a></b>",
+<b>Bot By: <a href='https://t.me/Mexicoccsscam'>ELGORDO</a></b>",
                 'parse_mode'=>'html',
                 'disable_web_page_preview'=>'true'
                 
